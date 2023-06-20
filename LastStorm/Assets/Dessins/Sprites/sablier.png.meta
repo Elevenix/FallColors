@@ -1,0 +1,378 @@
+fileFormatVersion: 2
+guid: 4e2e3383a5520914ebaba57eb68fd23d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sablier_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1637
+        width: 789
+        height: 1227
+      alignment: 9
+      pivot: {x: 0.4968153, y: 0.10270879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cbce8e6a099fa4187467b38f3a995b
+      internalID: -301211370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablier_1
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1551
+        width: 1054
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5166884, y: 0.19736783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eee01e9521612d4bb4333b00061cec2
+      internalID: -266410358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablier_2
+      rect:
+        serializedVersion: 2
+        x: 2384
+        y: 1606
+        width: 220
+        height: 1051
+      alignment: 9
+      pivot: {x: 0.51142246, y: 0.11507595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265077825baacc947bda6c48769fe000
+      internalID: -1137582909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablier_3
+      rect:
+        serializedVersion: 2
+        x: 2897
+        y: 1598
+        width: 190
+        height: 444
+      alignment: 9
+      pivot: {x: 0.6058015, y: 0.18873446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4461bcaa7b12a44c9c3b48f9880cc38
+      internalID: 1830672765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablier_4
+      rect:
+        serializedVersion: 2
+        x: 3186
+        y: 1539
+        width: 1801
+        height: 1057
+      alignment: 9
+      pivot: {x: 0.49860483, y: 0.5684453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690e57184c4099143bbffacc00182ac9
+      internalID: 757177901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablier_6
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1041
+        width: 532
+        height: 425
+      alignment: 9
+      pivot: {x: 0.51417005, y: 0.2694178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9cea526621f7e43b434c3e183ab8ed
+      internalID: 1980395254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablier_7
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 338
+        width: 532
+        height: 974
+      alignment: 9
+      pivot: {x: 0.50472355, y: 0.11044393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63158236986fe0245b96f309ce29d6df
+      internalID: -1017620214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablier_8
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 370
+        width: 317
+        height: 715
+      alignment: 9
+      pivot: {x: 0.53170747, y: 0.19425109}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1319a41f25b56409a4c33c837578f2
+      internalID: 1758441381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablier_9
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 304
+        width: 532
+        height: 424
+      alignment: 9
+      pivot: {x: 0.4622142, y: 0.22146283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63484e75b23282844980e96bdd8827bd
+      internalID: -157291108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablier_10
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 296
+        width: 657
+        height: 545
+      alignment: 9
+      pivot: {x: 0.50382507, y: 0.26025033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cce079f4d877b45b8414094a41270a
+      internalID: 657831126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablier_11
+      rect:
+        serializedVersion: 2
+        x: 3473
+        y: 358
+        width: 527
+        height: 344
+      alignment: 9
+      pivot: {x: 0.5047684, y: 0.35390908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94969f6e23b2fb4db0b7f26832da63c
+      internalID: 1805169260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sablier_8: 1758441381
+      sablier_11: 1805169260
+      sablier_4: 757177901
+      sablier_5: -806962222
+      sablier_10: 657831126
+      sablier_7: -1017620214
+      sablier_2: -1137582909
+      sablier_1: -266410358
+      sablier_6: 1980395254
+      sablier_3: 1830672765
+      sablier_9: -157291108
+      sablier_0: -301211370
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

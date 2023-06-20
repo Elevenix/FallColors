@@ -1,0 +1,34 @@
+{
+    "name": "Manager",
+    "maps": [
+        {
+            "name": "mana",
+            "id": "8ac1df9b-2996-4a81-b4df-58bed7cc7cb2",
+            "actions": [
+                {
+                    "name": "Space",
+                    "type": "Button",
+                    "id": "e4451f9e-9086-49f9-baa6-43f5afb8ff78",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "2edf9213-c206-4968-9372-fe58740bf7b6",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Space",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
